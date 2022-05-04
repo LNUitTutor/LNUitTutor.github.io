@@ -38,11 +38,7 @@
 
 Програми: [IntArithm](https://github.com/lnuittutor/IntArithm)
 
-you can [get the PDF]({{ lnuittutor.github.io }}/pdfs/1-Задачі_цілочислової_арифметики.pdf) directly.
-
-<a href="lnuittutor.github.io/blob/master/pdfs/1-Задачі_цілочислової_арифметики.pdf" target="_blank">PDF.</a>
-
-Текст: <embed src="https://lnuittutor.github.io/blob/master/pdfs/1-Задачі_цілочислової_арифметики.pdf" width="100%" height="850px"/>
+Текст: <a href="https://LNUitTutor.github.io/pdfs/1-Задачі_цілочислової_арифметики.pdf" target="_blank">клацніть, щоб переглянути pdf.</a>
 
 You can use the [editor on GitHub](https://github.com/LNUitTutor/LNUitTutor.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
