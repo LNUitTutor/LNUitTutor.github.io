@@ -36,9 +36,9 @@
 
 ## 1. Задачі цілочислової арифметики
 
-[IntArithm](https://github.com/LNUitTutor/LNUitTutor.github.io/blob/master/pdfs/1-Задачі_цілочислової_арифметики.pdf)
+Програми: [IntArithm](https://github.com/LNUitTutor/IntArithm)
 
-<embed src="https://lnuittutor.github.io/pdfs/1-Задачі цілочислової арифметики.pdf" width="100%" height="850px"/>
+Текст: <embed src="https://lnuittutor.github.io/pdfs/1-Задачі цілочислової арифметики.pdf" width="100%" height="850px"/>
 
 You can use the [editor on GitHub](https://github.com/LNUitTutor/LNUitTutor.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
