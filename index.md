@@ -36,7 +36,7 @@
 
 ## 1. Задачі цілочислової арифметики
 
-[IntArithm](https://github.com/LNUitTutor/LNUitTutor.github.io/pdfs/1-Задачі_цілочислової_арифметики.pdf)
+[IntArithm](https://github.com/LNUitTutor/LNUitTutor.github.io/blob/master/pdfs/1-Задачі_цілочислової_арифметики.pdf)
 
 <embed src="https://lnuittutor.github.io/pdfs/1-Задачі цілочислової арифметики.pdf" width="100%" height="850px"/>
 
