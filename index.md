@@ -40,7 +40,7 @@
 
 you can [get the PDF]({{ lnuittutor.github.io }}/pdfs/1-Задачі_цілочислової_арифметики.pdf) directly.
 
-<a href="lnuittutor.github.io/pdfs/1-Задачі_цілочислової_арифметики.pdf" target="_blank">PDF.</a>
+<a href="lnuittutor.github.io/blob/master/pdfs/1-Задачі_цілочислової_арифметики.pdf" target="_blank">PDF.</a>
 
 Текст: <embed src="https://lnuittutor.github.io/blob/master/pdfs/1-Задачі_цілочислової_арифметики.pdf" width="100%" height="850px"/>
 
