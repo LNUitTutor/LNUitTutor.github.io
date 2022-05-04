@@ -32,6 +32,13 @@
 
 Нижче наведено посилання на тексти розділів та програмні проекти до них.
 
+# Зміст
+
+## 1. Задачі цілочислової арифметики
+
+<embed src="https://lnuittutor.github.io/pdfs/1-Задачі цілочислової арифметики.pdf" width="100%" height="850px"/>
+
+
 You can use the [editor on GitHub](https://github.com/LNUitTutor/LNUitTutor.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
