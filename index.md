@@ -73,6 +73,8 @@
 * Дії матричної алгебри
 * Порівняння та переміщення елементів матриці
 
+Програми: [NestedLoops](https://github.com/LNUitTutor/NestedLoops.git)
+
 Текст: <a href="https://LNUitTutor.github.io/pdfs/4-Вкладені цикли в матричних задачах" target="_blank">клацніть, щоб переглянути pdf.</a>
 
 ## 5. Основні алгоритми сортування
@@ -81,6 +83,7 @@
 * Сортування вибором
 * Сортування обмінами
 
+Програми: [Sortings](https://github.com/LNUitTutor/Sortings.git)
 Текст: <a href="https://LNUitTutor.github.io/pdfs/5-Основні алгоритми сортування.pdf" target="_blank">клацніть, щоб переглянути pdf.</a>
 
 ## 6. Сортування структур даних
