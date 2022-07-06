@@ -187,6 +187,6 @@
 * Перебудова класу літаків
 * Використання стандартних контейнерів
 
-Програми: 
+Програми: [ShooterGame](https://github.com/LNUitTutor/ShooterGame), [ShooterGame-Refactored](https://github.com/LNUitTutor/ShooterGame-Refactored)
 
 Текст: 
