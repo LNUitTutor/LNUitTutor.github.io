@@ -169,11 +169,11 @@
 
 * Сфера застосування
 * Підготовчі кроки
-* Програмна реалізація
+* Програмна реалізація розв'язування задачі комівояжера
 * Консольна програма
 * Віконний застосунок
 
-Програми: 
+Програми: [Console](https://github.com/LNUitTutor/TSP_Evolutionary_Console), [Application](https://github.com/LNUitTutor/TSP_Evolutionary_Application)
 
 Текст: 
 
