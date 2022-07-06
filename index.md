@@ -105,7 +105,7 @@
 * Обчислення кореня алгебричного рівняння
 * Числове інтегрування
 
-Програми: 
+Програми: [AccuracyCalc](https://github.com/LNUitTutor/AccuracyCalc)
 
 Текст: <a href="https://LNUitTutor.github.io/pdfs/7-Обчислення з заданою точністю.pdf" target="_blank">клацніть, щоб переглянути pdf.</a>
 
@@ -116,7 +116,7 @@
 * Форматування виведення числової інформації
 * Відшукання найдовшого слова
 
-Програми: 
+Програми: [StringProcessing](https://github.com/LNUitTutor/StringProcessing)
 
 Текст: <a href="https://LNUitTutor.github.io/pdfs/8-Опрацювання текстової інформації.pdf" target="_blank">клацніть, щоб переглянути pdf.</a>
 
@@ -124,7 +124,7 @@
 
 * Обчислення великого степеня цілого числа
 
-Програми: 
+Програми: [UpDownDevelopment](https://github.com/LNUitTutor/UpDownDevelopment)
 
 Текст: 
 
@@ -134,7 +134,7 @@
 * Алгоритм швидкого сортування
 * Обхід двійкового дерева
 
-Програми: 
+Програми: [Recursion](https://github.com/LNUitTutor/Recursion)
 
 Текст: 
 
@@ -144,7 +144,7 @@
 * Тур коня без рекурсії
 * Задача про вісім ферзів
 
-Програми: 
+Програми: [Backtracking](https://github.com/LNUitTutor/Backtracking)
 
 Текст: 
 
@@ -153,7 +153,7 @@
 * Польський запис арифметичного виразу
 * Обчислення значення постфіксного виразу
 
-Програми: 
+Програми: [PartialGoal](https://github.com/LNUitTutor/PartialGoal)
 
 Текст: 
 
@@ -161,7 +161,7 @@
 
 * Задача комівояжера
 
-Програми: 
+Програми: [HillClimbing](https://github.com/LNUitTutor/HillClimbing)
 
 Текст: 
 
