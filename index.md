@@ -126,7 +126,7 @@
 
 Програми: [UpDownDevelopment](https://github.com/LNUitTutor/UpDownDevelopment)
 
-Текст: 
+Текст: <a href="https://LNUitTutor.github.io/pdfs/9-Покрокова розробка програм.pdf" target="_blank">клацніть, щоб переглянути pdf.</a>
 
 ## 10. Рекурсія
 
@@ -136,7 +136,7 @@
 
 Програми: [Recursion](https://github.com/LNUitTutor/Recursion)
 
-Текст: 
+Текст: <a href="https://LNUitTutor.github.io/pdfs/10-Рекурсія.pdf" target="_blank">клацніть, щоб переглянути pdf.</a>
 
 ## 11. Програмування з поверненням назад
 
@@ -146,7 +146,7 @@
 
 Програми: [Backtracking](https://github.com/LNUitTutor/Backtracking)
 
-Текст: 
+Текст: <a href="https://LNUitTutor.github.io/pdfs/11-Програмування з поверненням назад.pdf" target="_blank">клацніть, щоб переглянути pdf.</a>
 
 ## 12. Метод часткових цілей
 
@@ -155,7 +155,7 @@
 
 Програми: [PartialGoal](https://github.com/LNUitTutor/PartialGoal)
 
-Текст: 
+Текст: <a href="https://LNUitTutor.github.io/pdfs/12-Метод часткових цілей.pdf" target="_blank">клацніть, щоб переглянути pdf.</a>
 
 ## 13. Метод підйому. Евристики
 
@@ -163,7 +163,7 @@
 
 Програми: [HillClimbing](https://github.com/LNUitTutor/HillClimbing)
 
-Текст: 
+Текст: <a href="https://LNUitTutor.github.io/pdfs/13-Метод підйому.pdf" target="_blank">клацніть, щоб переглянути pdf.</a>
 
 ## 14. Генетичні алгоритми
 
@@ -175,7 +175,7 @@
 
 Програми: [Console](https://github.com/LNUitTutor/TSP_Evolutionary_Console), [Application](https://github.com/LNUitTutor/TSP_Evolutionary_Application)
 
-Текст: 
+Текст: <a href="https://LNUitTutor.github.io/pdfs/14-Генетичний алгоритм.pdf" target="_blank">клацніть, щоб переглянути pdf.</a>
 
 ## 15. Об’єктно-орієнтоване проектування
 
@@ -189,4 +189,4 @@
 
 Програми: [ShooterGame](https://github.com/LNUitTutor/ShooterGame), [ShooterGame-Refactored](https://github.com/LNUitTutor/ShooterGame-Refactored)
 
-Текст: 
+Текст: <a href="https://LNUitTutor.github.io/pdfs/15-ООП.pdf" target="_blank">клацніть, щоб переглянути pdf.</a>
