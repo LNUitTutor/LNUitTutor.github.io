@@ -42,7 +42,7 @@
 
 Програми: [IntArithm](https://github.com/lnuittutor/IntArithm)
 
-Текст: <a href="https://LNUitTutor.github.io/pdfs/1-Задачі цілочислової арифметики.pdf" target="_blank">клацніть, щоб переглянути pdf.</a>
+Текст: <a href="https://LNUitTutor.github.io/pdfs/1-Задачі цілочислової арифметики1.pdf" target="_blank">клацніть, щоб переглянути pdf.</a>
 
 ## 2. Програми з простим повторенням
 
